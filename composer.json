@@ -1,0 +1,24 @@
+{
+    "name": "lucid-modules/module-indexer-config",
+    "description": "Optimized Magento 2 indexers batch size",
+    "config": {
+        "sort-packages": true
+    },
+    "type": "magento2-module",
+    "license": "proprietary",
+    "require": {
+        "php": "~7.4.0",
+        "magento/framework": "*",
+        "magento/module-catalog": "*",
+        "magento/module-catalog-inventory": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LucidModules\\IndexerConfig\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    },
+    "version": "1.0.0"
+}
