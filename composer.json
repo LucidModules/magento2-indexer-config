@@ -7,7 +7,7 @@
     "type": "magento2-module",
     "license": "proprietary",
     "require": {
-        "php": "~7.4.0",
+        "php": "~7.4.0||~8.0.0||~8.1.0||~8.2.0",
         "magento/framework": "*",
         "magento/module-catalog": "*",
         "magento/module-catalog-inventory": "*"
