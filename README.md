@@ -1,4 +1,6 @@
 # Module LucidModules_IndexerConfig
+[![Maintainability](https://api.codeclimate.com/v1/badges/fb26722537834482b9b1/maintainability)](https://codeclimate.com/github/LucidModules/magento2-indexer-config/maintainability)[![Test Coverage](https://api.codeclimate.com/v1/badges/fb26722537834482b9b1/test_coverage)](https://codeclimate.com/github/LucidModules/magento2-indexer-config/test_coverage)
+
 This module shows how to optimize Magento 2 indexer batch size.
 Use it as a template for your e-commerce and experiment with batch size to match your needs.
 
